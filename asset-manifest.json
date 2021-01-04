@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wavemusicplayer/static/css/main.610d25f4.chunk.css",
+    "main.js": "/wavemusicplayer/static/js/main.131ec23d.chunk.js",
+    "main.js.map": "/wavemusicplayer/static/js/main.131ec23d.chunk.js.map",
+    "runtime-main.js": "/wavemusicplayer/static/js/runtime-main.a39c11c4.js",
+    "runtime-main.js.map": "/wavemusicplayer/static/js/runtime-main.a39c11c4.js.map",
+    "static/js/2.a0e67d9d.chunk.js": "/wavemusicplayer/static/js/2.a0e67d9d.chunk.js",
+    "static/js/2.a0e67d9d.chunk.js.map": "/wavemusicplayer/static/js/2.a0e67d9d.chunk.js.map",
+    "static/js/3.35f48cc6.chunk.js": "/wavemusicplayer/static/js/3.35f48cc6.chunk.js",
+    "static/js/3.35f48cc6.chunk.js.map": "/wavemusicplayer/static/js/3.35f48cc6.chunk.js.map",
+    "index.html": "/wavemusicplayer/index.html",
+    "static/css/main.610d25f4.chunk.css.map": "/wavemusicplayer/static/css/main.610d25f4.chunk.css.map",
+    "static/js/2.a0e67d9d.chunk.js.LICENSE.txt": "/wavemusicplayer/static/js/2.a0e67d9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a39c11c4.js",
+    "static/js/2.a0e67d9d.chunk.js",
+    "static/css/main.610d25f4.chunk.css",
+    "static/js/main.131ec23d.chunk.js"
+  ]
+}
