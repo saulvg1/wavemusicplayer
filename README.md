@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About project
+  This projects takes copywrite free music from an api and stores it in state. This allows the music to be played,stopped,skipped, previous track, and also 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
