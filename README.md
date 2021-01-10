@@ -9,6 +9,9 @@ This projects takes copywrite free music and stored locally. This allows the mus
 - **SASS**
 - **FontAwesome**
 
-### hosted site link
+### Hosted site link
 
 https://saulvg1.github.io/wavemusicplayer/
+
+##Development Repo
+https://github.com/saulvg1/devEdCourses
